@@ -78,11 +78,15 @@ nav {
 /*main*/
 main {
     /* make main take up surface space to push footer down*/
-    background-color: lightblue;
     flex: 1 0 auto;
     margin-top: 47px;
 }
-
+/*Hero section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
+}
 
 /*footer*/
 #social-networks {
