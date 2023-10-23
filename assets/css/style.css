@@ -77,9 +77,10 @@ nav {
 }
 /*main*/
 main {
-    background-color: lightblue;
     /* make main take up surface space to push footer down*/
+    background-color: lightblue;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 
